@@ -1,4 +1,4 @@
-# Hello, my gorgeous friends
+# Hello, my Gooorgeous friends
 I'm a self-taught front-end web developer who is ready to learn more about web dev. I'm 15 and passionate about diving deeper into this industry of programming despite of my age.
 I've never bought any course, any mentorship, all I learned was by watching Youtube videos, by help of my best friend - Stackoverflow and reading different internet posts. 
 I'm really serious about becoming front-end web dev. Also I started creating web projects with people all over the world from the Discord.
